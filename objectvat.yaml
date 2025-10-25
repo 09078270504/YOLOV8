@@ -1,0 +1,8 @@
+path: C:/Projects/OBJECTVAT/dataset_obj 
+train: images/train
+val: images/val
+nc: 3
+names:
+  0: refrigerator
+  1: bottle 
+  2: person

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['bottle']
+
+roboflow:
+  workspace: water-bottle-detection
+  project: drinking-water-bottle-detection
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/water-bottle-detection/drinking-water-bottle-detection/dataset/1
